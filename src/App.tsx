@@ -19,7 +19,7 @@ import { CMSManagement } from "@/pages/CMSManagement";
 import { NotificationManagement } from "@/pages/NotificationManagement";
 import { AdminProfile } from "@/pages/AdminProfile";
 import NotFound from "./pages/NotFound";
-import { AffiliateStore } from "@/pages/AffiliateStore";
+import {AffiliateStore} from "@/pages/AffiliateStore";
 import { Games } from "@/pages/Master/Games";
 import { Banner } from "@/pages/Master/Banner";
 
